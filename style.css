@@ -1,8 +1,6 @@
 html, body {
   background-color: blue;
   padding: 0;
-}
-p {
   margin: auto;
 }
 canvas {

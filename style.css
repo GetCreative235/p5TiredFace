@@ -1,7 +1,10 @@
 html, body {
-  margin: 0;
+  margin: auto;
   padding: 0;
-  color: #ADD8E6;
+}
+p {
+  margin: auto;
+  color: blue;
 }
 canvas {
   display: block;

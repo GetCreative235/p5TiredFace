@@ -2,6 +2,7 @@ html, body {
   background-color: blue;
   padding: 0;
   margin: auto;
+  text-align: center;
 }
 canvas {
   display: block;
